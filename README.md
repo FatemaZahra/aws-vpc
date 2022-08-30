@@ -1,6 +1,6 @@
 # AWS-VPC
 
-![Screenshot](Screenshot%202022-08-30%20at%2014.58.58.png)
+![Screenshot](Screenshot%202022-08-30%20at%2015.50.07.png)
 
 ## What is VPC?
 
