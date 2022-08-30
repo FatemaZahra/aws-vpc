@@ -1,6 +1,6 @@
 # AWS-VPC
 
-![Screenshot](Screenshot%202022-08-30%20at%2014.40.05.png)
+![Screenshot](Screenshot%202022-08-30%20at%2014.58.58.png)
 
 ## What is VPC?
 
@@ -11,12 +11,15 @@ A virtual private cloud (VPC) is a secure, isolated private cloud hosted within 
 Subnets: A subnet is a range of IP addresses within a network that are reserved so that they're not available to everyone within the network, essentially dividing part of the network for private use. In a VPC these are private IP addresses that are not accessible via the public Internet, unlike typical IP addresses, which are publicly visible.
 
 ## IP addressing
+
 We can assign IPv4 addresses and IPv6 addresses to our VPCs and subnets. We can also bring your public IPv4 and IPv6 GUA addresses to AWS and allocate them to resources in your VPC, such as EC2 instances, NAT gateways, and Network Load Balancers.
 
 ## Routing
+
 We use route tables to determine where network traffic from your subnet or gateway is directed.
 
 ## Gateways and endpoints
+
 A gateway connects your VPC to another network. For example, use an internet gateway to connect your VPC to the internet. Use a VPC endpoint to connect to AWS services privately, without the use of an internet gateway or NAT device.
 
 ## CIDR
