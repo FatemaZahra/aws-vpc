@@ -1,6 +1,6 @@
 # AWS-VPC
 
-![Screenshot](Screenshot%202022-08-30%20at%2015.50.07.png)
+![Screenshot](Screenshot%202022-08-31%20at%2017.52.24.png)
 
 ## What is VPC?
 
@@ -26,3 +26,16 @@ A gateway connects your VPC to another network. For example, use an internet gat
 
 - Classless Inter-Domain Routing, or CIDR, is a means of allocating Internet Protocol addresses, also known as host addresses, more efficiently compared to the traditional classful network addressing system.
 - CIDR blocks represent groups of IP addresses that have the same network prefixes and number of bits. Combining CIDR blocks that share a network prefix into a larger routing network is called supernetting, the single most important trait of CIDR.
+
+# Steps to create a VPC in AWS
+
+Step 1: Create a VPC with CIDR Block 10.0.0.0/16
+
+- Select VPC from AWS Services
+  ![Screenshot](Screenshot%202022-08-31%20at%2018.00.26.png)
+
+- Go to VPC- See all regions
+  ![Screenshot](Screenshot%202022-08-31%20at%2018.02.51.png)
+
+- Click on Create VPC at the top right corner
+  ![Screenshot](Screenshot%202022-08-31%20at%2018.04.42.png)
