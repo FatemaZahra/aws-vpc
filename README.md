@@ -45,7 +45,7 @@ A gateway connects your VPC to another network. For example, use an internet gat
 
 - Select VPC only, add a name tag, IPv4 CICR: 10.0.0.0/16 and proceed to Create VPC
 
-  ![Screenshot](Screenshot%202022-08-31%20at%2018.04.42.png)
+  ![Screenshot](Screenshot%202022-09-01%20at%2009.38.01.png)
 
 ## Step 2: Create Internet gateway
 
