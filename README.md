@@ -57,8 +57,8 @@ A gateway connects your VPC to another network. For example, use an internet gat
 
   ![Screenshot](Screenshot%202022-09-01%20at%2009.32.00.png)
 
--
-
 ## Step 3: Create Public Subnet
+
+![Screenshot](Screenshot%202022-09-01%20at%2009.49.23.png)
 
 ## Step 4: Create Route Table
