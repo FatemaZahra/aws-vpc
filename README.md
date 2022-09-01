@@ -29,13 +29,36 @@ A gateway connects your VPC to another network. For example, use an internet gat
 
 # Steps to create a VPC in AWS
 
-Step 1: Create a VPC with CIDR Block 10.0.0.0/16
+## Step 1: Create a VPC with CIDR Block 10.0.0.0/16
 
 - Select VPC from AWS Services
+
   ![Screenshot](Screenshot%202022-08-31%20at%2018.00.26.png)
 
 - Go to VPC- See all regions
+
   ![Screenshot](Screenshot%202022-08-31%20at%2018.02.51.png)
 
 - Click on Create VPC at the top right corner
+
   ![Screenshot](Screenshot%202022-08-31%20at%2018.04.42.png)
+
+- Select VPC only, add a name tag, IPv4 CICR: 10.0.0.0/16 and proceed to Create VPC
+
+  ![Screenshot](Screenshot%202022-08-31%20at%2018.04.42.png)
+
+## Step 2: Create Internet gateway
+
+- Go to Internet Gateway and click on Create Internet Gateway
+
+  ![Screenshot](Screenshot%202022-09-01%20at%2009.30.22.png)
+
+- Add the tag and Click on Create Internet Gateway
+
+  ![Screenshot](Screenshot%202022-09-01%20at%2009.32.00.png)
+
+-
+
+## Step 3: Create Public Subnet
+
+## Step 4: Create Route Table
